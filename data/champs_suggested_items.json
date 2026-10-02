@@ -1,0 +1,2332 @@
+{
+    "Aatrox": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Ahri": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Horizon Focus",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4628.png?v05"
+        }
+    ],
+    "Akali": [
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Akshan": [
+        {
+            "name": "Statikk Shiv",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3087.png?v05"
+        },
+        {
+            "name": "Mercury's Treads",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3111.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Alistar": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Amumu": [
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        }
+    ],
+    "Anivia": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "annie": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v2"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v2"
+        },
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v2"
+        }
+    ],
+    "Aphelios": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Ashe": [
+        {
+            "name": "Kraken Slayer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Phantom Dancer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3046.png?v05"
+        }
+    ],
+    "AurelionSol": [
+        {
+            "name": "Rylai's Crystal Scepter",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v2"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v2"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v2"
+        }
+    ],
+    "Aurora": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Azir": [
+        {
+            "name": "Nashor's Tooth",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Bard": [
+        {
+            "name": "Bloodsong",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3877.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Dead Man's Plate",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3742.png?v05"
+        }
+    ],
+    "Belveth": [
+        {
+            "name": "Kraken Slayer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v2"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v2"
+        },
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v2"
+        }
+    ],
+    "Blitzcrank": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Brand": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Rylai's Crystal Scepter",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v05"
+        }
+    ],
+    "Braum": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Briar": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Caitlyn": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Camille": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Ravenous Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3074.png?v05"
+        }
+    ],
+    "Cassiopeia": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "Chogath": [
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        }
+    ],
+    "Corki": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Manamune",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3004.png?v05"
+        }
+    ],
+    "Darius": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sterak's Gage",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3053.png?v05"
+        }
+    ],
+    "Diana": [
+        {
+            "name": "Nashor's Tooth",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        }
+    ],
+    "DrMundo": [
+        {
+            "name": "Warmog's Armor",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3083.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        }
+    ],
+    "Draven": [
+        {
+            "name": "Hubris",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6697.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Ekko": [
+        {
+            "name": "Hextech Rocketbelt",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        }
+    ],
+    "Elise": [
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Evelynn": [
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v05"
+        }
+    ],
+    "Ezreal": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Manamune",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3004.png?v05"
+        }
+    ],
+    "Fiddlesticks": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Fiora": [
+        {
+            "name": "Ravenous Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3074.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        }
+    ],
+    "Fizz": [
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Zhonya's Hourglass",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3157.png?v05"
+        }
+    ],
+    "galio": [
+        {
+            "name": "Hollow Radiance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6664.png?v2"
+        },
+        {
+            "name": "Mercury's Treads",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3111.png?v2"
+        },
+        {
+            "name": "Riftmaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v2"
+        }
+    ],
+    "Gangplank": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Garen": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Phantom Dancer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3046.png?v05"
+        }
+    ],
+    "Gnar": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Gragas": [
+        {
+            "name": "Cosmic Drive",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4629.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Winter's Approach",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3119.png?v05"
+        }
+    ],
+    "Graves": [
+        {
+            "name": "Youmuu's Ghostblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3142.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Gwen": [
+        {
+            "name": "Riftmaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Nashor's Tooth",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v05"
+        }
+    ],
+    "Hecarim": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Heimerdinger": [
+        {
+            "name": "Blackfire Torch",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2503.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Hwei": [
+        {
+            "name": "Blackfire Torch",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2503.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Illaoi": [
+        {
+            "name": "Iceborn Gauntlet",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6662.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Irelia": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Kraken Slayer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v05"
+        }
+    ],
+    "janna": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v2"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v2"
+        },
+        {
+            "name": "Echoes of Helia",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6620.png?v2"
+        }
+    ],
+    "JarvanIV": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Jax": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Jayce": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Manamune",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3004.png?v05"
+        }
+    ],
+    "Jhin": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Jinx": [
+        {
+            "name": "Yun Tal Wildarrows",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3032.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Kaisa": [
+        {
+            "name": "Statikk Shiv",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3087.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v05"
+        }
+    ],
+    "Kalista": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v05"
+        }
+    ],
+    "Karma": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        }
+    ],
+    "Karthus": [
+        {
+            "name": "Blackfire Torch",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2503.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Kassadin": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "Katarina": [
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Kayle": [
+        {
+            "name": "Nashor's Tooth",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v05"
+        }
+    ],
+    "Kayn": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Kennen": [
+        {
+            "name": "Hextech Rocketbelt",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Khazix": [
+        {
+            "name": "Youmuu's Ghostblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3142.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Opportunity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6701.png?v05"
+        }
+    ],
+    "Kindred": [
+        {
+            "name": "Kraken Slayer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Kled": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Profane Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6698.png?v05"
+        }
+    ],
+    "KogMaw": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "KSante": [
+        {
+            "name": "Iceborn Gauntlet",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6662.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Thornmail",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v05"
+        }
+    ],
+    "LeBlanc": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05"
+        }
+    ],
+    "LeeSin": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Leona": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Lillia": [
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Riftmaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v05"
+        }
+    ],
+    "Lissandra": [
+        {
+            "name": "Malignance",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3118.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Lucian": [
+        {
+            "name": "Essence Reaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v05"
+        }
+    ],
+    "Lulu": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Ardent Censer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3504.png?v05"
+        }
+    ],
+    "Lux": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        }
+    ],
+    "Malphite": [
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Thornmail",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v05"
+        }
+    ],
+    "Malzahar": [
+        {
+            "name": "Blackfire Torch",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2503.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Maokai": [
+        {
+            "name": "Unending Despair",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2502.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Winter's Approach",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3119.png?v05"
+        }
+    ],
+    "MasterYi": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v05"
+        }
+    ],
+    "milio": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v2"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v2"
+        },
+        {
+            "name": "Echoes of Helia",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6620.png?v2"
+        }
+    ],
+    "MissFortune": [
+        {
+            "name": "Bloodthirster",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3072.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Essence Reaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v05"
+        }
+    ],
+    "MonkeyKing": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Mordekaiser": [
+        {
+            "name": "Rylai's Crystal Scepter",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Riftmaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v05"
+        }
+    ],
+    "Morgana": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Naafiri": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Profane Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6698.png?v05"
+        }
+    ],
+    "Nami": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Imperial Mandate",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4005.png?v05"
+        }
+    ],
+    "nasus": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Frozen Heart",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3110.png?v05"
+        }
+    ],
+    "Nautilus": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Neeko": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Hextech Rocketbelt",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v05"
+        }
+    ],
+    "Nidalee": [
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Nilah": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Nocturne": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Experimental Hexplate",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3073.png?v05"
+        }
+    ],
+    "Nunu": [
+        {
+            "name": "Hextech Rocketbelt",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Olaf": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Orianna": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05"
+        }
+    ],
+    "Ornn": [
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Thornmail",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v05"
+        }
+    ],
+    "Pantheon": [
+        {
+            "name": "Bloodsong",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3877.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Umbral Glaive",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3179.png?v05"
+        }
+    ],
+    "Poppy": [
+        {
+            "name": "Bloodsong",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3877.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Dead Man's Plate",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3742.png?v05"
+        }
+    ],
+    "Pyke": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Boots",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/1001.png?v05"
+        },
+        {
+            "name": "Umbral Glaive",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3179.png?v05"
+        }
+    ],
+    "Qiyana": [
+        {
+            "name": "Hubris",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6697.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Profane Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6698.png?v05"
+        }
+    ],
+    "quinn": [
+        {
+            "name": "Profane Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6698.png?v2"
+        },
+        {
+            "name": "Boots",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/1001.png?v2"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v2"
+        }
+    ],
+    "Rakan": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Zeke's Convergence",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3050.png?v05"
+        }
+    ],
+    "Rammus": [
+        {
+            "name": "Thornmail",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        }
+    ],
+    "RekSai": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Rell": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Renata": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Renekton": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Rengar": [
+        {
+            "name": "Hubris",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6697.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Profane Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6698.png?v05"
+        }
+    ],
+    "Riven": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Rumble": [
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Riftmaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v05"
+        }
+    ],
+    "Ryze": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "Samira": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Infinity Edge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v05"
+        }
+    ],
+    "Sejuani": [
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Thornmail",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v05"
+        }
+    ],
+    "Senna": [
+        {
+            "name": "Bloodsong",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3877.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Seraphine": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Echoes of Helia",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6620.png?v05"
+        }
+    ],
+    "Sett": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Hullbreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3181.png?v05"
+        }
+    ],
+    "Shaco": [
+        {
+            "name": "Youmuu's Ghostblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3142.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        }
+    ],
+    "Shen": [
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        }
+    ],
+    "Shyvana": [
+        {
+            "name": "Spear of Shojin",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3161.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Singed": [
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Rylai's Crystal Scepter",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v05"
+        }
+    ],
+    "Sion": [
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        }
+    ],
+    "Sivir": [
+        {
+            "name": "Essence Reaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v05"
+        }
+    ],
+    "Skarner": [
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sterak's Gage",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3053.png?v05"
+        }
+    ],
+    "Smolder": [
+        {
+            "name": "Essence Reaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Spear of Shojin",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3161.png?v05"
+        }
+    ],
+    "Sona": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Echoes of Helia",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6620.png?v05"
+        }
+    ],
+    "Soraka": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Moonstone Renewer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6617.png?v05"
+        }
+    ],
+    "Swain": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Rylai's Crystal Scepter",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v05"
+        }
+    ],
+    "Sylas": [
+        {
+            "name": "Hextech Rocketbelt",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Cosmic Drive",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4629.png?v05"
+        }
+    ],
+    "Syndra": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v05"
+        }
+    ],
+    "TahmKench": [
+        {
+            "name": "Solstice Sleigh",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3876.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Heartsteel",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3084.png?v05"
+        }
+    ],
+    "Taliyah": [
+        {
+            "name": "Blackfire Torch",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2503.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "Talon": [
+        {
+            "name": "Youmuu's Ghostblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3142.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Opportunity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6701.png?v05"
+        }
+    ],
+    "Taric": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v05"
+        }
+    ],
+    "Teemo": [
+        {
+            "name": "Nashor's Tooth",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ],
+    "thresh": [
+        {
+            "name": "Celestial Opposition",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3869.png?v2"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v2"
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v2"
+        }
+    ],
+    "Tristana": [
+        {
+            "name": "The Collector",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v05"
+        }
+    ],
+    "Trundle": [
+        {
+            "name": "Ravenous Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3074.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        }
+    ],
+    "Tryndamere": [
+        {
+            "name": "Ravenous Hydra",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3074.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v05"
+        }
+    ],
+    "TwistedFate": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        }
+    ],
+    "Twitch": [
+        {
+            "name": "Yun Tal Wildarrows",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3032.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3085.png?v05"
+        }
+    ],
+    "Udyr": [
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        },
+        {
+            "name": "Boots of Swiftness",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v05"
+        },
+        {
+            "name": "Dead Man's Plate",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3742.png?v05"
+        }
+    ],
+    "Urgot": [
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sterak's Gage",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3053.png?v05"
+        }
+    ],
+    "Varus": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v05"
+        }
+    ],
+    "Vayne": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v05"
+        }
+    ],
+    "Veigar": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "Velkoz": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Horizon Focus",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4628.png?v05"
+        }
+    ],
+    "Vex": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Shadowflame",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v05"
+        }
+    ],
+    "Vi": [
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Black Cleaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v05"
+        }
+    ],
+    "Viego": [
+        {
+            "name": "Kraken Slayer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Viktor": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Lich Bane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v05"
+        }
+    ],
+    "Vladimir": [
+        {
+            "name": "Cosmic Drive",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4629.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v05"
+        }
+    ],
+    "volibear": [
+        {
+            "name": "Rod of Ages",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6657.png?v2"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v2"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v2"
+        }
+    ],
+    "Warwick": [
+        {
+            "name": "Stridebreaker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        }
+    ],
+    "Xayah": [
+        {
+            "name": "Essence Reaver",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Navori Flickerblade",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v05"
+        }
+    ],
+    "Xerath": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        }
+    ],
+    "XinZhao": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Sundered Sky",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6610.png?v05"
+        }
+    ],
+    "Yasuo": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Immortal Shieldbow",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6673.png?v05"
+        }
+    ],
+    "Yone": [
+        {
+            "name": "Blade of the Ruined King",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Immortal Shieldbow",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6673.png?v05"
+        }
+    ],
+    "Yorick": [
+        {
+            "name": "Trinity Force",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v05"
+        },
+        {
+            "name": "Plated Steelcaps",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v05"
+        },
+        {
+            "name": "Serylda's Grudge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6694.png?v05"
+        }
+    ],
+    "Yuumi": [
+        {
+            "name": "Dream Maker",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3870.png?v05"
+        },
+        {
+            "name": "Moonstone Renewer",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6617.png?v05"
+        }
+    ],
+    "Zac": [
+        {
+            "name": "Sunfire Aegis",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Spirit Visage",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3065.png?v05"
+        }
+    ],
+    "Zed": [
+        {
+            "name": "Eclipse",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Voltaic Cyclosword",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6699.png?v05"
+        }
+    ],
+    "Zeri": [
+        {
+            "name": "Statikk Shiv",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3087.png?v05"
+        },
+        {
+            "name": "Berserker's Greaves",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v05"
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3085.png?v05"
+        }
+    ],
+    "Ziggs": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Archangel's Staff",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v05"
+        }
+    ],
+    "Zilean": [
+        {
+            "name": "Solstice Sleigh",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3876.png?v05"
+        },
+        {
+            "name": "Ionian Boots of Lucidity",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v05"
+        },
+        {
+            "name": "Shurelya's Battlesong",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/2065.png?v05"
+        }
+    ],
+    "zoe": [
+        {
+            "name": "Luden's Companion",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v2"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v2"
+        },
+        {
+            "name": "Stormsurge",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/4646.png?v2"
+        }
+    ],
+    "Zyra": [
+        {
+            "name": "Zaz'Zak's Realmspike",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3871.png?v05"
+        },
+        {
+            "name": "Sorcerer's Shoes",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v05"
+        },
+        {
+            "name": "Liandry's Torment",
+            "src": "https://cdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v05"
+        }
+    ]
+}
