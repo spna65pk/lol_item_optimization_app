@@ -17,9 +17,40 @@ The application takes into account:
 - Gold constraints and item tier limitations.
 
 ### How it works:
-1. **Data Sourcing:** The application uses JSON data files containing champion and item statistics, which were obtained through web scraping of community-driven data sources.
+1. **Data Sourcing:** The application uses the prepared JSON files in the `data` directory. These files were created with the data collection and processing scripts in `get_data`.
 2. **Heuristic Search:** It employs the **Simulated Annealing** algorithm to navigate the search space of item combinations, converging on a high-value solution based on a custom-weighted objective function.
 3. **Visualization:** Real-time feedback on the algorithm's performance is provided through embedded Matplotlib plots.
+
+### Data preparation
+The `get_data` directory contains the scripts and intermediate materials used to create the JSON files consumed by the application. The preparation process includes:
+
+- downloading champion and item data from external sources;
+- filtering and transforming the downloaded data into the formats used by the optimizer;
+- adding champion damage-type and other attributes required by the objective function; and
+- scraping recommended items for champions and saving those recommendations.
+
+The resulting files are stored in `data`:
+
+- `filtered_champions.json` contains the champion data used by the optimizer;
+- `filtered_items.json` contains the available item statistics, effects, prices, and icons; and
+- `champs_suggested_items.json` contains champion item recommendations.
+
+The data-preparation scripts are not required when running the application with the JSON files already present. Some scripts use external websites, Selenium, or local paths and may need configuration before they can be run again.
+
+#### Selenium scraper setup
+To run `get_data/suggested_items_dynamic_scraping_rest.py`, install Google Chrome and a matching ChromeDriver, then update the ChromeDriver path in that file. Replace the placeholder in:
+
+```python
+service = Service("********\\chromedriver-win64\\chromedriver.exe")
+```
+
+with the path to the `chromedriver.exe` file on your computer. For example:
+
+```python
+service = Service(r"C:\\tools\\chromedriver-win64\\chromedriver.exe")
+```
+
+The `r` prefix keeps Windows backslashes from being interpreted as escape sequences. The scraper uses Selenium to visit the champion build pages and produces `champs_suggested_items.json`.
 
 ---
 
@@ -56,11 +87,20 @@ The project requires Python 3.10+ and the libraries listed in the `requirements.
 Project Structure
 ```text
 .
-├── data
+├── data/                         # JSON files consumed by the application
 │   ├── champs_suggested_items.json
 │   ├── filtered_champions.json
 │   └── filtered_items.json
-├── src
+├── get_data/                     # Scripts and materials used to prepare data/
+│   ├── Add_to_filtered_champs_data_dmg_type.py
+│   ├── CreateDmgTypeFileFromTXT.py
+│   ├── items_in_one.py
+│   ├── one_json_file.py
+│   ├── przedmioty_lista.py
+│   ├── suggested_items_dynamic_scraping_rest.py
+│   ├── dodac parametry.txt
+│   └── tests_.ipynb
+├── src/                          # Application source code
 │   ├── gui_app.py
 │   └── optimizer_logic.py
 ├── .gitignore

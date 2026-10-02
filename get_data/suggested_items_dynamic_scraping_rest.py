@@ -9,7 +9,7 @@ import json
 options = Options()
 options.headless = True  # Uruchomić bez okna przeglądarki (headless mode)
 
-service = Service("C:\Piotr.K\AGH_STUDIA\semV\Badania_Operacyjne2\projekt\pobieranie_danych\chromedriver-win64\chromedriver.exe")  # Zmienna chromedriver
+service = Service("********\chromedriver-win64\chromedriver.exe")  # Zmienna chromedriver
 driver = webdriver.Chrome(service=service, options=options)
 
 # Lista postaci
