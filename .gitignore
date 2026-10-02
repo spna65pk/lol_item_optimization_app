@@ -1,0 +1,25 @@
+# env
+.venv/
+venv/
+env/
+ENV/
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.python-version
+
+# VS Code
+.vscode/
+.idea/
+
+# executables
+build/
+dist/
+*.spec
+
+# system files
+.DS_Store
+Thumbs.db
